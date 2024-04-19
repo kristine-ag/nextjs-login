@@ -50,7 +50,7 @@ const Login = () => {
             </button>
           </div>
         </div>
-        <p className="mt-4 text-center text-gray-400">Powered by GallawanK@2024</p>
+        <p className="mt-4 text-center text-white">Powered by GallawanK@2024</p>
       </div>
     </div>
   );
